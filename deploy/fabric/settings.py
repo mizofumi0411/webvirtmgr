@@ -23,7 +23,7 @@ CENTOS_EPEL = (
     "http://dl.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm"
 )
 
-REPO_URL = "https://github.com/retspen/webvirtmgr.git"
+REPO_URL = "https://github.com/mizofumi0411/webvirtmgr.git"
 INSTALL_PATH = "/var/www/"
 
 # NGINX server name
